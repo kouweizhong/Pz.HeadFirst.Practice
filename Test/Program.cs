@@ -10,6 +10,8 @@ using 装饰者模式;
 using 装饰者模式.Beverage;
 using 装饰者模式.Coffee;
 using 装饰者模式.Decorator;
+
+using 抽象工厂模式.Source;
 namespace Test
 {
     class Program
@@ -20,6 +22,7 @@ namespace Test
             Test1();
             //装饰着模式
             TestDecorate();
+
             Console.ReadKey();
         }
 

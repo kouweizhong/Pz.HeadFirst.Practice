@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\设计模式练习\Pz.HeadFirst.Practice\抽象工厂模式\bin\Debug\抽象工厂模式.dll
+D:\Visual Studio Projects\设计模式练习\Pz.HeadFirst.Practice\抽象工厂模式\bin\Debug\抽象工厂模式.pdb
+D:\Visual Studio Projects\设计模式练习\Pz.HeadFirst.Practice\抽象工厂模式\obj\Debug\抽象工厂模式.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\设计模式练习\Pz.HeadFirst.Practice\抽象工厂模式\obj\Debug\抽象工厂模式.dll
+D:\Visual Studio Projects\设计模式练习\Pz.HeadFirst.Practice\抽象工厂模式\obj\Debug\抽象工厂模式.pdb
